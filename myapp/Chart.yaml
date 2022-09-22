@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Web demo
+name: dakual
+version: 2.1.2

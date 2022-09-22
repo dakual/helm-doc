@@ -1,0 +1,28 @@
+apiVersion: v1
+entries:
+  dakual:
+  - apiVersion: v1
+    created: "2022-09-22T17:00:46.511057942+03:00"
+    description: Web demo
+    digest: 630f6da4a5cbfbc86de5976ab79081d5b93424c0140a1e3daa493f0599db2b77
+    name: dakual
+    urls:
+    - dakual-2.1.2.tgz
+    version: 2.1.2
+  - apiVersion: v1
+    created: "2022-09-22T17:00:46.510800158+03:00"
+    description: Web demo
+    digest: 7de73d74977e916951ee8ace752281b03c3a8ec263a4802477e8251f3bc38379
+    name: dakual
+    urls:
+    - dakual-2.1.1.tgz
+    version: 2.1.1
+  - apiVersion: v1
+    created: "2022-09-22T17:00:46.510564709+03:00"
+    description: Web demo
+    digest: 5dd8950dbbde816578631265f78d62d9add38f2c25f6c675265e816a4126f3de
+    name: dakual
+    urls:
+    - dakual-2.1.0.tgz
+    version: 2.1.0
+generated: "2022-09-22T17:00:46.510201226+03:00"

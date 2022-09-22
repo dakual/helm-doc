@@ -13,6 +13,7 @@ helm version
 ```sh
 helm create myapp
 helm package myapp
+helm repo index .
 ```
 
 ### Helm add repo and search
